@@ -1,5 +1,11 @@
 from setuptools import setup
 
+def readme():
+    with open('README.md') as f:
+        README = f.read()
+    return README
+
+
 setup(
     name="TOPSIS-JASMEHAK-101803163",
     packages=["TOPSIS-JASMEHAK-101803163"],
