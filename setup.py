@@ -9,10 +9,10 @@ def readme():
 setup(
     name="TOPSIS-JASMEHAK-101803163",
     packages=["TOPSIS-JASMEHAK-101803163"],
-    version="0.1",
+    version="0.3",
     description="Python package implementing TOPSIS ",
     url="https://github.com/jasmehakKaur/TOPSIS_PYTHON",
-    download_url="https://github.com/jasmehakKaur/TOPSIS_PYTHON/archive/v_0.2.tar.gz",
+    download_url="https://github.com/jasmehakKaur/TOPSIS_PYTHON/archive/v_0.3.tar.gz",
     author="Jasmehak Kaur",
     author_email="jkaur2_be18@thapar.edu",
     license="MIT",
