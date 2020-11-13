@@ -12,7 +12,7 @@ setup(
     version="0.1",
     description="Python package implementing TOPSIS ",
     url="https://github.com/jasmehakKaur/TOPSIS_PYTHON",
-    download_url="https://github.com/jasmehakKaur/TOPSIS_PYTHON/archive/v_0.1.tar.gz",
+    download_url="https://github.com/jasmehakKaur/TOPSIS_PYTHON/archive/v_0.2.tar.gz",
     author="Jasmehak Kaur",
     author_email="jkaur2_be18@thapar.edu",
     license="MIT",
