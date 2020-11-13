@@ -16,7 +16,7 @@ setup(
     author="Jasmehak Kaur",
     author_email="jkaur2_be18@thapar.edu",
     license="MIT",
-    keywords = ['TOPSIS','IMPLEMENTATION','PYTHON']
+    keywords = ['TOPSIS','IMPLEMENTATION','PYTHON'],
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
